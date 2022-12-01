@@ -2,6 +2,6 @@
 
 int main() {
    printf("Hollow World! Sad!\n");
-   printf("this is V2\n");
+   printf("This is V2\n");
    return 0;
 }
